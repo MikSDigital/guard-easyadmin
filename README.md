@@ -1,1 +1,3 @@
-#### Test integration of EasyadminBundle and guard (work in progress ...)
+#### Test integration of EasyadminBundle and guard 
+
+(work in progress ...)
